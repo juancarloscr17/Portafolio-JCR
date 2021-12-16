@@ -400,6 +400,9 @@ body{
         grid-auto-rows: 250px;
         gap: 10px;
     }
+    .projects__img{
+        object-position: top;
+    }
 
     .testimony__item{
         padding: 30px 15px;
